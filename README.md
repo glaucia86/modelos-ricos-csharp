@@ -1,4 +1,4 @@
-# Curso: Modelando Domiínios Ricos:
+# Curso: Modelando Domiínios Ricos - Balta.io
 
 Repositório responsável pelos exercícios prepostos pelo curso do Balta.io: [Modelando Domínios Ricos](https://www.udemy.com/modelando-dominios-ricos/learn)
 
