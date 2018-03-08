@@ -5,7 +5,7 @@ Repositório responsável pelos exercícios prepostos pelo curso do Balta.io: [M
 ## Recursos Utilizados no Desenvolvimento da Aplicação:
 
 - Visual Studio 2017
-- Asp.NET
+- .NET CORE
 - C#
 - Conceitos de DDD
 - SQL Server;
