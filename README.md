@@ -2,7 +2,7 @@
 
 Repositório responsável pelos exercícios prepostos pelo curso do Balta.io: [Modelando Domínios Ricos](https://www.udemy.com/modelando-dominios-ricos/learn)
 
-##Recursos Utilizados no Desenvolvimento da Aplicação:
+## Recursos Utilizados no Desenvolvimento da Aplicação:
 
 - Visual Studio 2017
 - Asp.NET
